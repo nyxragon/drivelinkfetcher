@@ -7,7 +7,7 @@ Drivelinkfetcher is a Go package for performing Google Custom Searches and fetch
 To use the `drivelinkfetcher` package, install it in your Go project:
 
 ```
-go get github.com/yourusername/drivelinkfetcher
+go get github.com/nyxragon/drivelinkfetcher
 ```
 
 ## Usage
